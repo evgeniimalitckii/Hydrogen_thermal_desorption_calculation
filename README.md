@@ -10,4 +10,4 @@ Quick guide:
 5. Select the raw measurement file via popup window for calculation.
 6. Collect the output files (3 jpg files and one txt file)
 
-The txt file contains three columns with temperature (K or $^o$C, depending on input parameters settings), temperature corrected according to calibration procedure embeded into the software (K or $^o$C, depending on input parameters settings), and hydrogen thermal desorption rate, respectively. 
+The txt file contains three columns with temperature (K or ^oC, depending on input parameters settings), temperature corrected according to calibration procedure embeded into the software (K or $^o$C, depending on input parameters settings), and hydrogen thermal desorption rate, respectively. 
