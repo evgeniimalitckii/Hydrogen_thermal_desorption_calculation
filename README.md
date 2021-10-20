@@ -6,8 +6,8 @@ Quick guide:
 1. Install dependencies listed in the requirements.txt file.
 2. Open the thermal_desorption_rate_calculation.ipynb file using Jupyter Notebook.
 3. Specify the Input parameters in the second code block.
-4. Run the code
+4. Run the code.
 5. Select the raw measurement file via popup window for calculation.
-6. Collect the output files (3 jpg files and one txt file)
+6. Collect the output files (3 jpg files and one txt file).
 
 The txt file contains three columns with temperature (K or <sup>o</sup>C, depending on input parameters settings), temperature corrected according to calibration procedure embeded into the software (K or <sup>o</sup>C, depending on input parameters settings), and hydrogen thermal desorption rate, respectively. 
